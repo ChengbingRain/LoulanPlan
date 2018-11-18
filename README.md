@@ -20,7 +20,11 @@
 
 ## 关于
 
-我是伯特，公众号「伯特说」运营者，掘金联合编辑，现就职于阿里巴巴-高德。
+我是伯特，公众号「伯特说」运营者，掘金联合编辑，现就职于阿里巴巴。
+
+公众号不定期分享技术干货、职场思考等，`LoulanPlan` 的文章也会在公众号同步推送，欢迎关注。
+
+![伯特说](https://github.com/ruicbAndroid/LoulanPlan/blob/master/Resources/%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 ## 致谢
 
@@ -32,8 +36,10 @@
 2. 你期望未来我更新哪些知识点；
 3. 你有好的文章或者想法；
 
-可以提 Issue，或者加我微信 `rain_ChengBing`。
+可以提 Issue，或者加我微信 `rain_ChengBing`（请注明来自 LoulanPlan）。
 
 ## LICENSE
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">LoulanPlan</span> 由 <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">伯特</span> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享 署名-非商业性使用 4.0 国际 许可协议</a>进行许可。
+
+禁止用于商业目的，如需转载请注明作者及出处，谢谢配合。
