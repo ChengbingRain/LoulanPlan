@@ -1,5 +1,7 @@
 # LoulanPlan
 
+[LoulanPlan](https://github.com/ruicbAndroid/LoulanPlan/blob/master/Resources/LoulanPlan%20Logo.png)
+
 :book: 学习是一种信念，认准一个方向，“不破楼兰终不还”
 
 ## 什么是 LoulanPlan
